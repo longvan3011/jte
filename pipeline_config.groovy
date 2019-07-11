@@ -6,4 +6,5 @@
 */
 libraries{
   merge = true
+  build
 }
